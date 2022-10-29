@@ -1,0 +1,315 @@
+.bag {
+  background-color: #111131;
+}
+
+.header {
+  box-shadow: 6px 6px 16px rgba(17, 17, 49, 0.12);
+}
+.title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 29px;
+  /* identical to box height, or 222% */
+  text-align: center;
+
+  color: #ababfa;
+}
+.learnM {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 29px;
+  text-decoration: none;
+  /* identical to box height, or 222% */
+  text-align: center;
+
+  color: #ababfa;
+}
+.learnM:hover {
+  text-decoration: none;
+  color: #ababfa;
+}
+.colorTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height, or 129% */
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+
+  color: #5c5cff;
+}
+.bigTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 62px;
+  /* or 149% */
+  letter-spacing: 1px;
+  width: 98%;
+  color: #413e52;
+}
+.smallTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height, or 129% */
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+
+  color: #413e52;
+}
+.smallFavTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  /* identical to box height, or 150% */
+
+  color: #868297;
+}
+
+.leftBody {
+  width: 1220px;
+  margin-top: 100px;
+  padding: 0;
+  border: 1px solid #ebeaf2;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.rightImg {
+  top: 21%;
+  left: 68.3%;
+}
+
+.leftImg {
+  left: -4.9%;
+  top: 42.7%;
+  z-index: -1;
+}
+
+.leftHr {
+  position: absolute;
+  top: 9%;
+  left: 0%;
+}
+
+.footer
+{
+    margin-top: 150px;
+}
+
+.foot {
+  background: #1b1b4d;
+}
+.cat {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  /* identical to box height, or 129% */
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+
+  color: #ababfa;
+}
+.catTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 29px;
+  /* identical to box height, or 206% */
+
+  color: #ababfa;
+}
+.quaTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 42px;
+  /* identical to box height, or 145% */
+
+  color: #ffffff;
+}
+.foot2 {
+  margin-bottom: 100px;
+}
+.btn1 {
+  width: 100%;
+  background: #1b1b4d;
+  border: 1px solid #8989f8 !important;
+}
+.btnTitle1 {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height, or 150% */
+  text-align: center;
+
+  color: #5c5cff;
+}
+.btnTitle2 {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height, or 150% */
+  text-align: center;
+
+  color: #ffffff;
+}
+.btn2 {
+  width: 100%;
+  background: #5c5cff;
+  border-radius: 4px;
+}
+.smallFoot {
+  background: #ababfa;
+}
+.footTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 29px;
+  /* identical to box height, or 192% */
+  margin: 0;
+  color: #111131;
+}
+
+.cardsBody {
+  margin-top: 200px;
+}
+
+.CardTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  /* or 158% */
+
+  color: #413e52;
+}
+
+.freeBook {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.ebookBag {
+  background: #111131;
+}
+
+.ebookCTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 18px;
+  /* identical to box height, or 138% */
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+
+  color: #5c5cff;
+}
+
+.ebookTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 50px;
+  /* or 163% */
+  letter-spacing: 1px;
+
+  color: #ffffff;
+}
+
+.btnEbook {
+  margin-left: 50px;
+  width: 450px;
+  background: #1b1b4d;
+  border: 1px solid #8989f8 !important;
+}
+
+.btnEBook {
+  margin-left: 50px;
+  width: 450px;
+  background: #5c5cff;
+  border-radius: 4px;
+}
+
+.caseTitle {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 42px;
+  /* identical to box height, or 145% */
+
+  color: #413e52;
+}
+
+.caseTitles {
+  margin-left: 100px;
+}
+
+.caseStudies {
+  margin-bottom: 100px;
+}
+
+.headIng {
+  background: #111131;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.IngB {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 36px;
+  /* or 157% */
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.IngTitle {
+  width: 20%;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  /* or 129% */
+  letter-spacing: 1.4px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #5c5cff;
+}
+
+.caseFonts {
+    top: 9%;
+    left: -7.9%;
+    z-index: -1;
+}
